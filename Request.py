@@ -1,8 +1,5 @@
 import requests
-import names
-
 import concurrent.futures
-import requests
 import names
 
 headers = {

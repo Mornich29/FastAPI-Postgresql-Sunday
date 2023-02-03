@@ -3,3 +3,6 @@ names==0.3.0
 pydantic==1.10.4
 requests==2.26.0
 SQLAlchemy==1.4.22
+uvicorn
+psycopg2
+
